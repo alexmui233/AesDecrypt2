@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill acctCode="36000232678901" billInsert="0000" billLang="100" billType="32" firstBill="N"
+  medium="111000" msisdn="" subNum="1">
+  <PaymentMode>CASH</PaymentMode>
+  <OCR>&amp;amp;lt;&amp;amp;lt; 15307867&amp;amp;gt;&amp;amp;gt; 8# 10+ 43863770208&amp;amp;lt;
+    00000013000&amp;amp;gt;</OCR>
+  <previousBill>
+    <PreviousBalance>0.00</PreviousBalance>
+    <billTrans>
+      <L1>Payment Received - Thank You</L1>
+      <L2>已繳款項 - 多謝</L2>
+      <TransType>POB</TransType>
+      <TransDate>20230626</TransDate>
+      <TransAmt>-778.00</TransAmt>
+    </billTrans>
+    <BalanceForward>-778</BalanceForward>
+  </previousBill>
+  <contactInfo>
+    <BusinessType>2</BusinessType>
+    <personName title="MR">
+      <firstName>
+        <L1>BRM12 Invoice</L1>
+      </firstName>
+      <lastName>
+        <L1>SampleBill</L1>
+      </lastName>
+    </personName>
+    <address>
+      <L1>BRM12 Invoice Tester2</L1>
+      <L2>17/F TELECOM HOUSE</L2>
+      <L3>3, GLOUCESTER ROAD</L3>
+      <L4>WAN CHAI, HONG KONG ISLAND</L4>
+      <L5>HONG KONG</L5>
+      <L6 />
+      <FBM>N</FBM>
+    </address>
+  </contactInfo>
+  <billCycleInfo>
+    <BillRunDate>20230610</BillRunDate>
+    <CutOffDate>20230609</CutOffDate>
+    <BillCycleEnd>20230609</BillCycleEnd>
+    <BillCycleBegin>20230510</BillCycleBegin>
+    <DueDate>20230626</DueDate>
+    <BillCycleId>10</BillCycleId>
+  </billCycleInfo>
+  <clubMsg>
+    <OptOut>N</OptOut>
+    <MemberID>8039402287</MemberID>
+    <PointBalance>578</PointBalance>
+    <AsOfDate>06/02/2023</AsOfDate>
+  </clubMsg>
+  <TotalBalance>48.00</TotalBalance>
+  <QRString>
+    0002010102126221011736012345678991F3226230012hk.com.hkicl010393532290013hk.com.tapngo0208INPUTAMT520400005303344540549.005802HK5902NA6002HK6304DAAA</QRString>
+  <PaymentRule>2.0</PaymentRule>
+  <AccountNewCharge>1248.00</AccountNewCharge>
+  <dbMsg>
+    <caption>Final Bill Msg</caption>
+    <content>
+      <L1>Balance Refund will be issued within 2 weeks.</L1>
+      <L2>結餘退款將於兩星期內發出。</L2>
+    </content>
+  </dbMsg>
+  <billmktMsg1>
+    <caption>Test Bill Message in Text</caption>
+    <content>
+      <L1>Switch 1O1O bills over to Mox Credit through HKT Autopay Switch# in the Mox app and earn up to HKD250 of 5% CashBack*! Download Mox app from bit.ly/3f2z8x8 !^^To borrow or not to borrow? Borrow only if you can repay! *Promo Period: Until 31 October, 2021. T&amp;C apply. CashBack promotion is provided by Mox Bank Limited. Check mox.com or Mox app for details. #Exclusive for credit-approved Mox customers.</L1>
+      <L2>在Mox app透過「HKT轉賬易」#以Mox Credit自動轉賬繳付1O1O賬單兼賺5% CashBack*，回贈高達HKD250!立即到bit.ly/3f2z8x8下載Mox app!^^借定唔借？還得到先好借！*推廣期：至2021年10月31日。受條款及細則約束。CashBack推廣由Mox Bank Limited提供。請到mox.com或Mox app查看詳情。#只適用於獲批核的Mox Credit客戶。</L2>
+    </content>
+    <PIC>
+      <L1></L1>
+      <L2></L2>
+    </PIC>
+  </billmktMsg1>
+  <billmktMsg2>
+    <caption>Test Bill Message in Image</caption>
+    <content>
+      <L1></L1>
+      <L2></L2>
+    </content>
+    <PIC>
+      <L1>p230407e.tif</L1>
+      <L2>p230407c.tif</L2>
+    </PIC>
+  </billmktMsg2>
+  <imptMsg>
+    <caption>IMP MSG Sample1</caption>
+    <content>
+      <L1>Note:^^This bill is in respect of fees for services provided by PCCW Limited and/or one or more of its subsidiaries (including companies within the HKT Group), including but not limited to Hong Kong Telecommunications (HKT) Limited, PCCW Global Limited, CSL Mobile Limited, PCCW Media Limited, PCCW OTT (Hong Kong) Limited, Moov (Hong Kong) Limited, HKT Services Limited and Netcare Limited.^^All enquiries or disputes concerning any bill must be made to the relevant service provider within 30 days from the relevant bill issue date.  Otherwise, the bill will be deemed to be in order and accepted by the customer.^^Any tariff variation that comes into effect during this invoice period will be reflected in the next bill.^^Odd cents will be carried forward to next bill.^^                                                                                             an HKT company</L1>
+      <L2>說明^^此賬單乃有關電訊盈科有限公司或其下一或多家附屬公司(包括香港電訊集團旗下公司)所提供的服務收費，包括但不限於Hong Kong Telecommunications (HKT) Limited、電訊盈科環球業務有限公司、香港移動通訊有限公司、電訊盈科媒體有限公司、PCCW OTT (Hong Kong) Limited、Moov (Hong Kong) Limited、HKT Services Limited 及 Netcare Limited。^^所有有關任何賬單之查詢或爭議，必須在有關賬單發出日期起的三十天內向有關服務供應商提出，否則該賬單將視為正確無誤。^^任何於今期賬單期內生效的新收費，其相應之賬項調整將詳列於下期賬單內。^^零數將轉入下期賬單。^^                                                                                      香港電訊附屬公司</L2>
+    </content>
+  </imptMsg>
+  <poolusageSummaryGroup />
+  <phoneSummaryFeeGroup />
+  <summaryFeeGroup>
+    <summaryFee fee="826.0" feeType="2000">
+      <ServiceNumber msisdn="bom200801235">
+        <summaryFeeItem>
+          <FeeTypeCode>2001</FeeTypeCode>
+          <names>
+            <L1>1000M Service Charges (Prorate)</L1>
+            <L2>基本服務計劃月費</L2>
+          </names>
+          <Fee>48</Fee>
+          <StartDate>20230601</StartDate>
+          <EndDate>20230609</EndDate>
+          <DisplayFlag>1</DisplayFlag>
+          <SpecialFlag>0</SpecialFlag>
+        </summaryFeeItem>
+        <summaryFeeItem>
+          <FeeTypeCode>2001</FeeTypeCode>
+          <names>
+            <L1>1000M Service Charges</L1>
+            <L2>基本服務計劃月費</L2>
+          </names>
+          <Fee>98</Fee>
+          <StartDate>20230610</StartDate>
+          <EndDate>20230709</EndDate>
+          <DisplayFlag>1</DisplayFlag>
+          <SpecialFlag>0</SpecialFlag>
+        </summaryFeeItem>
+        <summaryFeeItem>
+          <FeeTypeCode>2005</FeeTypeCode>
+          <names>
+            <L1>Installation Fee</L1>
+            <L2>基本服務計劃月費</L2>
+          </names>
+          <ProductType>DUMMY TYPE</ProductType>
+          <ProductId>DUMMY ID</ProductId>
+          <Fee>680</Fee>
+          <StartDate>20230530</StartDate>
+          <EndDate></EndDate>
+          <EventID>341210383405837860</EventID>
+          <RateTag>PRP_TEL_VOICECL_1000564002</RateTag>
+          <DisplayFlag>1</DisplayFlag>
+          <SpecialFlag>0</SpecialFlag>
+        </summaryFeeItem>
+      </ServiceNumber>
+    </summaryFee>
+  </summaryFeeGroup>
+</bill>

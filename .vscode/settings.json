@@ -1,0 +1,6 @@
+{
+  "java.project.referencedLibraries": [
+    "lib/**/*.jar",
+    "c:\\Users\\02009905\\Downloads\\dom4j-1.6.1.jar"
+  ]
+}

@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill acctCode="77102955242950" billInsert="0000" billLang="100" billStatus="Released" billType="32" envir="Reh" firstBill="N" invoiceType="Real" medium="111000" msisdn="60517985" subNum="1">
+  <PaymentMode>CASH</PaymentMode>
+  <OCR>&amp;amp;lt;&amp;amp;lt; 15307867&amp;amp;gt;&amp;amp;gt; 8# 10+ 43863770208&amp;amp;lt; 00000013000&amp;amp;gt;</OCR>
+  <previousBill>
+    <PreviousBalance>1058.00</PreviousBalance>
+    <billTrans>
+      <L1>Payment Received - Thank You</L1>
+      <L2>已繳款項 - 多謝</L2>
+      <TransType>POB</TransType>
+      <TransDate>20240115</TransDate>
+      <TransAmt>-529</TransAmt>
+    </billTrans>
+    <BalanceForward>529</BalanceForward>
+  </previousBill>
+  <contactInfo>
+    <BusinessType>2</BusinessType>
+    <personName title="DUMMY">
+      <lastName>
+        <L1>XXX XXXX XXXX XXXXXX XXXX</L1>
+      </lastName>
+    </personName>
+    <address>
+      <L1>XXX XXXX XXXX XXXXXX XXXX</L1>
+      <L2>XXX_XX....XXXXXX / XXX</L2>
+      <L3>XXX XX XXXXXX XXXX XXXXXXXXXXX</L3>
+      <L4>X XXXXXX XX</L4>
+      <L5>XXXXX XXXXXX</L5>
+      <L6>XX</L6>
+      <FBM>N</FBM>
+      <EmailAddress>XXXXXXX@XXXXX.XXX</EmailAddress>
+      <SMSNumber/>
+      <CustSegment>PS1</CustSegment>
+    </address>
+  </contactInfo>
+  <billCycleInfo>
+    <BillRunDate>20240210</BillRunDate>
+    <CutOffDate>20240209</CutOffDate>
+    <BillCycleEnd>20240209</BillCycleEnd>
+    <BillCycleBegin>20240110</BillCycleBegin>
+    <DueDate>20240223</DueDate>
+    <ValueDate>20240222</ValueDate>
+    <BillCycleId>10</BillCycleId>
+  </billCycleInfo>
+  <SubInfo custCode="DUMMY CODE" msisdn="60507080" subId="6665061188601">
+    <contactInfo>
+      <personName title="0">
+        <firstName>
+          <L1>THE HONG KONG JOCKEY CLUB</L1>
+        </firstName>
+      </personName>
+    </contactInfo>
+  </SubInfo>
+  <summaryFeeGroup contrStartDate="20210810000001" contrStatus="Active" eppEid="0" firstName="THE HONG KONG JOCKEY CLUB" msisdn="60507080" mupId="0" offerCode="MRP0001831" subId="6665061188601" subType="NORMAL">
+    <summaryFee fee="529.0" feeType="2000">
+      <summaryFeeItem>
+        <FeeTypeCode>2004</FeeTypeCode>
+        <names>
+          <L1>Monthly Mobile Service Fee</L1>
+          <L2>基本服務計劃月費</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>529</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>0</EventID>
+        <RateTag>PRP_TEL_VOICECL_1000694062</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Basic Entitlement</L1>
+          <L2>基本用量</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358135436</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000694210</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Basic Entitlement</L1>
+          <L2>基本用量</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358137164</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000733032</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Basic Entitlement</L1>
+          <L2>基本用量</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358137676</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000712985</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Data Roaming Day Pass-Local Time</L1>
+          <L2>數據漫遊日費計劃-當地時間</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358136140</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000347519</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Data Roaming Day Pass-Local Time</L1>
+          <L2>數據漫遊日費計劃-當地時間</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358134348</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000347516</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Data Roaming Day Pass-Local Time</L1>
+          <L2>數據漫遊日費計劃-當地時間</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358135372</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000347540</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>International &amp; China Roaming Data Deposit</L1>
+          <L2>國際及中國漫遊數據按金</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358134604</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000284330</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Roaming Voice/Video MT PAUG</L1>
+          <L2/>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171358137932</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000282659</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+    </summaryFee>
+    <summaryFee fee="0.0" feeType="1000">
+      <summaryFeeItem>
+        <FeeTypeCode>4</FeeTypeCode>
+        <names>
+          <L1>Additional Local Voice Calls</L1>
+          <L2>額外本地話音通話</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>101</FeeTypeCode>
+        <names>
+          <L1>Local Data</L1>
+          <L2>本地流動數據</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>5</FeeTypeCode>
+        <names>
+          <L1>Content/Other Charges</L1>
+          <L2>資訊內容/其他費用</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+    </summaryFee>
+  </summaryFeeGroup>
+  <NewCharge fee="529.0" msisdn="60507080" portal="0" subId="6665061188601"/>
+  <callDetailGroup msisdn="60507080" subId="6665061188601">
+    <callDetail L1="Local Data" L2="本地流動數據" order="06" serviceType="8">
+      <cdr av="12381" bf="0.00" ct="" rv="0.00" sd="10/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="19870" bf="0.00" ct="" rv="0.00" sd="11/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="22744" bf="0.00" ct="" rv="0.00" sd="12/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="8201" bf="0.00" ct="" rv="0.00" sd="13/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="7305" bf="0.00" ct="" rv="0.00" sd="14/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="14781" bf="0.00" ct="" rv="0.00" sd="15/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="23890" bf="0.00" ct="" rv="0.00" sd="16/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="15071" bf="0.00" ct="" rv="0.00" sd="17/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="13509" bf="0.00" ct="" rv="0.00" sd="18/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="18122" bf="0.00" ct="" rv="0.00" sd="19/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="20012" bf="0.00" ct="" rv="0.00" sd="20/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="6983" bf="0.00" ct="" rv="0.00" sd="21/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="68645" bf="0.00" ct="" rv="0.00" sd="22/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="61311" bf="0.00" ct="" rv="0.00" sd="23/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="13821" bf="0.00" ct="" rv="0.00" sd="24/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="10969" bf="0.00" ct="" rv="0.00" sd="25/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="12605" bf="0.00" ct="" rv="0.00" sd="26/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="23050" bf="0.00" ct="" rv="0.00" sd="27/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="7893" bf="0.00" ct="" rv="0.00" sd="28/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="17022" bf="0.00" ct="" rv="0.00" sd="29/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="17156" bf="0.00" ct="" rv="0.00" sd="30/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="12544" bf="0.00" ct="" rv="0.00" sd="31/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="14185" bf="0.00" ct="" rv="0.00" sd="01/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="21827" bf="0.00" ct="" rv="0.00" sd="02/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="9679" bf="0.00" ct="" rv="0.00" sd="03/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="21478" bf="0.00" ct="" rv="0.00" sd="04/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="91339" bf="0.00" ct="" rv="0.00" sd="05/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="22886" bf="0.00" ct="" rv="0.00" sd="06/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="12185" bf="0.00" ct="" rv="0.00" sd="07/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="42398" bf="0.00" ct="" rv="0.00" sd="08/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="18452" bf="0.00" ct="" rv="0.00" sd="09/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <feeSubTotal>0.00</feeSubTotal>
+      <durationSubTotal>682314.00</durationSubTotal>
+      <chargeableSubTotal>0.00</chargeableSubTotal>
+    </callDetail>
+  </callDetailGroup>
+  <usageSummaryGroup msisdn="60507080" subId="6665061188601">
+    <usageSummary countryChi="" countryEng="" name_chi="本地流動數據" name_eng="Local Data" number="" serviceType="8" unit="KB">
+      <usbTable tableType="R">
+        <usbTitle>
+          <names>
+            <L1>Intra</L1>
+            <L2>Inter</L2>
+            <L3>Oversea</L3>
+          </names>
+        </usbTitle>
+        <usbRegularColumn>
+          <BasicName>
+            <L1>Basic Entitlement</L1>
+            <L2>基本用量</L2>
+            <hiddenDisplay>N</hiddenDisplay>
+          </BasicName>
+          <volume1>
+            <Display>Y</Display>
+            <L1>Data Volume(KB)</L1>
+            <L2>數據用量(KB)</L2>
+            <Unit>KB</Unit>
+            <FreeAmt>31457280</FreeAmt>
+            <UsageAmt>682314</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume1>
+          <volume2>
+            <Display>N</Display>
+            <L1>BlackBerry Email(KB)</L1>
+            <L2>BlackBerry 電郵(KB)</L2>
+            <Unit>KB</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>0</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume2>
+          <volume3>
+            <Display>N</Display>
+            <L1>Push Email(KB)</L1>
+            <L2>Push 電郵(KB)</L2>
+            <Unit>KB</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>0</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume3>
+          <TotalFree>
+            <total type="1">31457280</total>
+            <total type="2">0</total>
+            <total type="3">0</total>
+          </TotalFree>
+          <TotalFree2>
+            <intra>31457280</intra>
+            <inter>0</inter>
+            <oversea>0</oversea>
+          </TotalFree2>
+        </usbRegularColumn>
+      </usbTable>
+    </usageSummary>
+  </usageSummaryGroup>
+  <TotalBalance>1058.00</TotalBalance>
+  <QRString>0002010102126221011777102955242950F3226230012hk.com.hkicl010393532290013hk.com.tapngo0208INPUTAMT52040000530334454071058.005802HK5902NA6002HK63048AA6</QRString>
+  <PaymentRule>2.0</PaymentRule>
+  <AccountNewCharge>529.00</AccountNewCharge>
+</bill>

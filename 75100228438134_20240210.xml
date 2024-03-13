@@ -1,0 +1,1431 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bill acctCode="75100228438134" billInsert="0000" billLang="101" billStatus="Released" billType="32" envir="Reh" firstBill="N" invoiceType="Real" medium="111000" msisdn="91836072" subNum="1">
+  <PaymentMode>DDCC</PaymentMode>
+  <OCR>&amp;amp;lt;&amp;amp;lt; 15307867&amp;amp;gt;&amp;amp;gt; 8# 10+ 43863770208&amp;amp;lt; 00000013000&amp;amp;gt;</OCR>
+  <previousBill>
+    <PreviousBalance>300.71</PreviousBalance>
+    <billTrans>
+      <L1>Payment Received - Thank You</L1>
+      <L2>已繳款項 - 多謝</L2>
+      <TransType>POB</TransType>
+      <TransDate>20240124</TransDate>
+      <TransAmt>-300</TransAmt>
+    </billTrans>
+    <BalanceForward>0.71</BalanceForward>
+  </previousBill>
+  <contactInfo>
+    <BusinessType>4</BusinessType>
+    <personName title="DUMMY">
+      <lastName>
+        <L1>XX XXX XXXX XXX</L1>
+      </lastName>
+    </personName>
+    <address>
+      <L1>XX XXX XXXX XXX</L1>
+      <L2>X/X-@XXXX XXXX</L2>
+      <L3>XX X XX/X XXXXX XXXXXXXX</L3>
+      <L4>X-X XXXXX XXXXXX</L4>
+      <L5>XXXXXXX XXXXXXXX XXXX XXXX</L5>
+      <L6/>
+      <FBM>N</FBM>
+      <EmailAddress>XXX_XXXXX@XXXXX.XXX</EmailAddress>
+      <SMSNumber>XXXXXXXX</SMSNumber>
+      <CustSegment>PH5</CustSegment>
+    </address>
+  </contactInfo>
+  <billCycleInfo>
+    <BillRunDate>20240210</BillRunDate>
+    <CutOffDate>20240209</CutOffDate>
+    <BillCycleEnd>20240209</BillCycleEnd>
+    <BillCycleBegin>20240110</BillCycleBegin>
+    <DueDate>20240223</DueDate>
+    <ValueDate>20240222</ValueDate>
+    <BillCycleId>10</BillCycleId>
+  </billCycleInfo>
+  <clubMsg>
+    <OptOut>Y</OptOut>
+    <MemberID>8052958678</MemberID>
+    <PointBalance>1078</PointBalance>
+    <AsOfDate>09/02/2024</AsOfDate>
+  </clubMsg>
+  <SubInfo custCode="DUMMY CODE" msisdn="90806070" subId="2403960355272">
+    <contactInfo>
+      <personName title="0">
+        <firstName>
+          <L1>MS CHU CHIN YAN</L1>
+        </firstName>
+      </personName>
+    </contactInfo>
+  </SubInfo>
+  <summaryFeeGroup contrStartDate="20230817171934" contrStatus="Active" eppEid="0" firstName="MS CHU CHIN YAN" msisdn="90806070" mupId="0" offerCode="MRP0001763" subId="2403960355272" subType="NORMAL">
+    <summaryFee fee="389.0" feeType="2000">
+      <summaryFeeItem>
+        <FeeTypeCode>2001</FeeTypeCode>
+        <names>
+          <L1>Monthly Mobile Service Fee</L1>
+          <L2>基本服務計劃月費</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>389</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376496600</EventID>
+        <RateTag>PRP_TEL_VOICECL_1000631296</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Basic Entitlement (Top-Up Plan)</L1>
+          <L2>基本用量 (數據計劃)</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376493112</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000631348</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Data Roam Pass (ABC - Macau)</L1>
+          <L2>Data Roaming Pass (ABC-Macau)</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376493016</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000667978</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>DataRoam Day Pass (ABC-1C1D)</L1>
+          <L2/>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376495160</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000458593</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Extra Entitlement (Top-Up Plan)</L1>
+          <L2>額外用量 (數據計劃)</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376494392</EventID>
+        <RateTag>PSP_TEL_VOICECL_1001257481</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Extra Entitlement (Top-Up Plan)</L1>
+          <L2>額外用量 (數據計劃)</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376494040</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000971096</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>IDD001 Free 100min</L1>
+          <L2/>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376494776</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000228619</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>International &amp; China Roaming Data Deposit</L1>
+          <L2>國際及中國漫遊數據按金</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376495416</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000284330</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Mainland China &amp; Macau Data Pkg</L1>
+          <L2>中國內地及澳門漫遊數據組合</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376494136</EventID>
+        <RateTag>PSP_TEL_VOICECL_1001382194</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>1</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Roaming Voice/Video MT PAUG</L1>
+          <L2/>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376494552</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000282659</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2002</FeeTypeCode>
+        <names>
+          <L1>Viu Premium Service</L1>
+          <L2>Viu升級會員服務</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376493528</EventID>
+        <RateTag>PSP_TEL_VOICECL_1000970984</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>1</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>2003</FeeTypeCode>
+        <names>
+          <L1>MTR/Tunnels/Mobile License/Adm Fee</L1>
+          <L2>港鐵/隧道/流動電話牌照/行政費</L2>
+        </names>
+        <ProductType>DUMMY TYPE</ProductType>
+        <ProductId>DUMMY ID</ProductId>
+        <Fee>0</Fee>
+        <StartDate>20240110</StartDate>
+        <EndDate>20240209</EndDate>
+        <EventID>347687171376495832</EventID>
+        <RateTag>PLF_TEL_1000631322</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>2</SpecialFlag>
+      </summaryFeeItem>
+    </summaryFee>
+    <summaryFee fee="190.52" feeType="1000">
+      <summaryFeeItem>
+        <FeeTypeCode>4</FeeTypeCode>
+        <names>
+          <L1>Additional Local Voice Calls</L1>
+          <L2>額外本地話音通話</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>101</FeeTypeCode>
+        <names>
+          <L1>Local Data</L1>
+          <L2>本地流動數據</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>10</FeeTypeCode>
+        <names>
+          <L1>MMS</L1>
+          <L2>多媒體短訊</L2>
+        </names>
+        <Fee>0</Fee>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>1</FeeTypeCode>
+        <names>
+          <L1>IDD Calls</L1>
+          <L2>長途電話</L2>
+        </names>
+        <Fee>49.52</Fee>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>5</FeeTypeCode>
+        <names>
+          <L1>Content/Other Charges</L1>
+          <L2>資訊內容/其他費用</L2>
+        </names>
+        <Fee>141</Fee>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+    </summaryFee>
+    <summaryFee fee="-230.0" feeType="3000">
+      <summaryFeeItem>
+        <FeeTypeCode>3001</FeeTypeCode>
+        <names>
+          <L1>Monthly Incentive</L1>
+          <L2>月費優惠</L2>
+          <AdjCode/>
+        </names>
+        <Fee>-230</Fee>
+        <PeriodNo>10</PeriodNo>
+        <PeriodTotal>24</PeriodTotal>
+        <StartDate>20240210</StartDate>
+        <EndDate>20240309</EndDate>
+        <EventID>347687171376495928</EventID>
+        <RateTag>FOI_TEL_216354+24-10</RateTag>
+        <DisplayFlag>1</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+      <summaryFeeItem>
+        <FeeTypeCode>3001</FeeTypeCode>
+        <names>
+          <L1>MTR/Tunnels/Mobile License/Adm Fee Rebate</L1>
+          <L2>港鐵/隧道/流動電話牌照/行政費回贈</L2>
+          <AdjCode/>
+        </names>
+        <Fee>0</Fee>
+        <PeriodNo>0</PeriodNo>
+        <PeriodTotal>0</PeriodTotal>
+        <StartDate>20240110</StartDate>
+        <EndDate>20240209</EndDate>
+        <EventID>347687171376495832</EventID>
+        <RateTag>PLF_TEL_1000631322</RateTag>
+        <DisplayFlag>0</DisplayFlag>
+        <SpecialFlag>0</SpecialFlag>
+      </summaryFeeItem>
+    </summaryFee>
+  </summaryFeeGroup>
+  <NewCharge fee="349.52" msisdn="90806070" portal="0" subId="2403960355272"/>
+  <callDetailGroup msisdn="90806070" subId="2403960355272">
+    <callDetail L1="Local Voice Calls" L2="本地話音通話" order="01" serviceType="4">
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="10/01/2024" st="08:55">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="10/01/2024" st="15:21">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="10/01/2024" st="18:10">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="10/01/2024" st="18:31">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="10/01/2024" st="19:10">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="11/01/2024" st="02:39">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="14" bf="0.00" ct="" rv="0.00" sd="11/01/2024" st="11:43">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="11/01/2024" st="19:00">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="11/01/2024" st="23:55">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="04:34">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="05:00">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="10:15">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="8" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="11:03">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="14:02">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="14:59">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="12/01/2024" st="16:15">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="P" rv="0.00" sd="12/01/2024" st="18:42">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="13/01/2024" st="21:06">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="09:42">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="10:58">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="10:58">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="11:59">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="12:12">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="12:18">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="13:34">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="13:38">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="13:45">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="13:49">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="14/01/2024" st="19:30">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="15/01/2024" st="13:18">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="15/01/2024" st="14:38">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="15/01/2024" st="14:52">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="15/01/2024" st="17:05">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="6" bf="0.00" ct="" rv="0.00" sd="15/01/2024" st="18:33">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="15/01/2024" st="19:16">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="10" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="11:30">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="15:55">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="17:58">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="18:37">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="18:58">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="19:02">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="19:36">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="16/01/2024" st="19:38">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="14:12">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="17:01">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="17:56">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="6" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="18:28">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="18:33">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="10" bf="0.00" ct="" rv="0.00" sd="17/01/2024" st="18:51">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="18/01/2024" st="16:10">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="09:28">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="10:33">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="10:54">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="13:15">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="15:32">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="16:50">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="18:23">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="18:29">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="18:32">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="18:36">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="19/01/2024" st="21:44">
+        <L1>001 33 142445000</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="20/01/2024" st="00:45">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="20/01/2024" st="10:05">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="20/01/2024" st="12:47">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="21/01/2024" st="08:35">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="21/01/2024" st="08:36">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="21/01/2024" st="12:16">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="21/01/2024" st="15:12">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="22/01/2024" st="14:08">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="23/01/2024" st="16:45">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="24/01/2024" st="12:18">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="24/01/2024" st="12:19">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="24/01/2024" st="13:23">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="24/01/2024" st="15:55">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="24/01/2024" st="17:18">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="26/01/2024" st="14:42">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="26/01/2024" st="19:13">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="26/01/2024" st="19:17">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="27/01/2024" st="01:08">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="27/01/2024" st="01:08">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="27/01/2024" st="01:12">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="27/01/2024" st="01:16">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="29/01/2024" st="09:39">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="29/01/2024" st="09:43">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="29/01/2024" st="09:49">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="29/01/2024" st="10:13">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="09:52">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="09:56">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="10:28">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="12:41">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="30/01/2024" st="13:35">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="13:36">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="13:38">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="13:43">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="13:59">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="14:40">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="15:34">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="16:07">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="30/01/2024" st="19:41">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="09:35">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="10:03">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="10:18">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="31/01/2024" st="10:59">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="6" bf="0.00" ct="P" rv="0.00" sd="31/01/2024" st="16:08">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="16:28">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="16:34">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="19:54">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="20:00">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="31/01/2024" st="20:05">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="12:37">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="14:54">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="15:01">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="17:55">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="18:24">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="01/02/2024" st="19:39">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="02/02/2024" st="09:49">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="02/02/2024" st="13:21">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="02/02/2024" st="18:34">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="02/02/2024" st="18:39">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="13:08">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="13:11">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="13:19">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="15:20">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="15:32">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="15:34">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="16:22">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="16:24">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="17:10">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="18:11">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="18:25">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="03/02/2024" st="18:41">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="04/02/2024" st="13:32">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="04/02/2024" st="15:20">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="09:33">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="09:46">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="6" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="09:50">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="7" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="10:02">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="11:08">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="13:09">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:29">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:33">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:35">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:36">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:44">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="15:56">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="16:03">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="16:10">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="6" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="16:39">
+        <L1>31111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="16:57">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="17:37">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="8" bf="0.00" ct="" rv="0.00" sd="05/02/2024" st="19:07">
+        <L1>21111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="12:06">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="14:54">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="17:40">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="17:50">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="18:20">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="19:01">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="5" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="19:24">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="20:53">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="15" bf="0.00" ct="P" rv="0.00" sd="06/02/2024" st="21:01">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="21:16">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="21:17">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="25" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="21:29">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:49">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:50">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:52">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:54">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:54">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="06/02/2024" st="23:57">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="00:05">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="00:17">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="11:33">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="11:52">
+        <L1>51111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="14:50">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="15:32">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="19:12">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="23:12">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="07/02/2024" st="23:12">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="10:42">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="11:39">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="12:23">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="14:34">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="3" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="16:51">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="17:43">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="2" bf="0.00" ct="P" rv="0.00" sd="08/02/2024" st="17:52">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="19:28">
+        <L1>61111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="19:38">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <cdr av="4" bf="0.00" ct="" rv="0.00" sd="08/02/2024" st="19:38">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="1" bf="0.00" ct="P" rv="0.00" sd="09/02/2024" st="15:02">
+        <L1>Incoming</L1>
+        <L2>來電</L2>
+      </cdr>
+      <cdr av="9" bf="0.00" ct="P" rv="0.00" sd="09/02/2024" st="15:07">
+        <L1>91111111</L1>
+        <L2/>
+      </cdr>
+      <feeSubTotal>0.00</feeSubTotal>
+      <durationSubTotal>443.00</durationSubTotal>
+      <chargeableSubTotal>0.00</chargeableSubTotal>
+    </callDetail>
+    <callDetail L1="Local Data" L2="本地流動數據" order="06" serviceType="8">
+      <cdr av="154883" bf="0.00" ct="" rv="0.00" sd="10/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="2581141" bf="0.00" ct="" rv="0.00" sd="11/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="95132" bf="0.00" ct="" rv="0.00" sd="12/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="708079" bf="0.00" ct="" rv="0.00" sd="13/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="378655" bf="0.00" ct="" rv="0.00" sd="14/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="265988" bf="0.00" ct="" rv="0.00" sd="15/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="304520" bf="0.00" ct="" rv="0.00" sd="16/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="1046956" bf="0.00" ct="" rv="0.00" sd="17/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="1070068" bf="0.00" ct="" rv="0.00" sd="18/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="69886" bf="0.00" ct="" rv="0.00" sd="19/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="284582" bf="0.00" ct="" rv="0.00" sd="20/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="53846" bf="0.00" ct="" rv="0.00" sd="21/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="11499" bf="0.00" ct="" rv="0.00" sd="22/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="65070" bf="0.00" ct="" rv="0.00" sd="23/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="1145944" bf="0.00" ct="" rv="0.00" sd="24/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="61724" bf="0.00" ct="" rv="0.00" sd="25/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="63793" bf="0.00" ct="" rv="0.00" sd="26/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="33912" bf="0.00" ct="" rv="0.00" sd="27/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="2762" bf="0.00" ct="" rv="0.00" sd="28/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="91635" bf="0.00" ct="" rv="0.00" sd="29/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="4481" bf="0.00" ct="" rv="0.00" sd="30/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="946228" bf="0.00" ct="" rv="0.00" sd="31/01/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="80086" bf="0.00" ct="" rv="0.00" sd="01/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="482157" bf="0.00" ct="" rv="0.00" sd="02/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="367463" bf="0.00" ct="" rv="0.00" sd="03/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="150236" bf="0.00" ct="" rv="0.00" sd="04/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="187464" bf="0.00" ct="" rv="0.00" sd="05/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="38814" bf="0.00" ct="" rv="0.00" sd="06/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="127249" bf="0.00" ct="" rv="0.00" sd="07/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="69318" bf="0.00" ct="" rv="0.00" sd="08/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <cdr av="295288" bf="0.00" ct="" rv="0.00" sd="09/02/2024">
+        <L1/>
+        <L2/>
+      </cdr>
+      <feeSubTotal>0.00</feeSubTotal>
+      <durationSubTotal>11238859.00</durationSubTotal>
+      <chargeableSubTotal>0.00</chargeableSubTotal>
+    </callDetail>
+    <callDetail L1="IDD Calls" L2="長途電話" order="16" serviceType="1">
+      <cdr av="4" bf="49.52" ct="" rv="4.00" sd="19/01/2024" st="21:44">
+        <or>
+          <ct c="33" sc="FRA">
+            <L1>France</L1>
+            <L2>法國</L2>
+          </ct>
+        </or>
+        <L1>001 33 142445000</L1>
+        <L2/>
+      </cdr>
+      <feeSubTotal>49.52</feeSubTotal>
+      <durationSubTotal>4.00</durationSubTotal>
+      <chargeableSubTotal>4.00</chargeableSubTotal>
+    </callDetail>
+    <callDetail L1="Content/Other Charges" L2="資訊內容/其他費用" order="22" serviceType="5">
+      <cdrGroup>
+        <names>
+          <L1>Direct Carrier Billing - Apple Services (https://apple.com/bill)</L1>
+          <L2>賬單付款服務- Apple Services (https://apple.com/bill)</L2>
+        </names>
+        <cdr av="0" bf="63.00" bill_desc="Apple MKQXVS7MVQ" ct="" rv="0.00" sd="19/01/2024" st="11:33">
+          <L1/>
+          <L2/>
+        </cdr>
+        <cdr av="0" bf="78.00" bill_desc="Apple MKQXWGX8KT" ct="" rv="0.00" sd="29/01/2024" st="07:31">
+          <L1/>
+          <L2/>
+        </cdr>
+        <GroupTotal>
+          <feeSubTotal>141.00</feeSubTotal>
+          <durationSubTotal>0.00</durationSubTotal>
+          <chargeableSubTotal>0.00</chargeableSubTotal>
+        </GroupTotal>
+      </cdrGroup>
+      <feeSubTotal>141.00</feeSubTotal>
+      <durationSubTotal>0.00</durationSubTotal>
+      <chargeableSubTotal>0.00</chargeableSubTotal>
+    </callDetail>
+  </callDetailGroup>
+  <usageSummaryGroup msisdn="90806070" subId="2403960355272">
+    <usageSummary countryChi="" countryEng="" name_chi="本地話音通話" name_eng="Local Voice Calls" number="" serviceType="4" unit="Min">
+      <usbTable tableType="R">
+        <usbTitle>
+          <names>
+            <L1>Intra</L1>
+            <L2>Inter</L2>
+            <L3>Oversea</L3>
+          </names>
+        </usbTitle>
+        <usbRegularColumn>
+          <BasicName>
+            <L1>Basic Entitlement</L1>
+            <L2>基本用量</L2>
+            <hiddenDisplay>N</hiddenDisplay>
+          </BasicName>
+          <volume1>
+            <Display>Y</Display>
+            <L1>Intra-network(Min)</L1>
+            <L2>網內(分鐘)</L2>
+            <Unit>Min</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>40</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume1>
+          <volume2>
+            <Display>Y</Display>
+            <L1>Basic(Min)</L1>
+            <L2>基本(分鐘)</L2>
+            <Unit>Min</Unit>
+            <FreeAmt>-1</FreeAmt>
+            <UsageAmt>403</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume2>
+          <volume3>
+            <Display>N</Display>
+            <L1/>
+            <L2/>
+            <Unit>Min</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>0</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume3>
+          <TotalFree>
+            <total type="1">0</total>
+            <total type="2">-1</total>
+            <total type="3">0</total>
+          </TotalFree>
+          <TotalFree2>
+            <intra>0</intra>
+            <inter>-1</inter>
+            <oversea>0</oversea>
+          </TotalFree2>
+        </usbRegularColumn>
+      </usbTable>
+    </usageSummary>
+    <usageSummary countryChi="" countryEng="" name_chi="本地流動數據" name_eng="Local Data" number="" serviceType="8" unit="GB">
+      <usbTable tableType="R">
+        <usbTitle>
+          <names>
+            <L1>Intra</L1>
+            <L2>Inter</L2>
+            <L3>Oversea</L3>
+          </names>
+        </usbTitle>
+        <usbRegularColumn>
+          <BasicName>
+            <L1>Basic Entitlement</L1>
+            <L2>基本用量</L2>
+            <hiddenDisplay>Y</hiddenDisplay>
+          </BasicName>
+          <volume1>
+            <Display>Y</Display>
+            <L1>Data Volume(GB)</L1>
+            <L2>數據用量(GB)</L2>
+            <Unit>GB</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>11238859</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume1>
+          <volume2>
+            <Display>N</Display>
+            <L1>BlackBerry Email(GB)</L1>
+            <L2>BlackBerry 電郵(GB)</L2>
+            <Unit>GB</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>0</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume2>
+          <volume3>
+            <Display>N</Display>
+            <L1>Push Email(GB)</L1>
+            <L2>Push 電郵(GB)</L2>
+            <Unit>GB</Unit>
+            <FreeAmt>0</FreeAmt>
+            <UsageAmt>0</UsageAmt>
+            <ChargeableAmt>0</ChargeableAmt>
+            <Price>0.00</Price>
+          </volume3>
+          <freeUnitItem>
+            <names>
+              <L1>Basic Entitlement (Top-Up Plan)</L1>
+              <L2>基本用量 (數據計劃)</L2>
+              <hiddenDisplay>N</hiddenDisplay>
+            </names>
+            <OperCode>11</OperCode>
+            <Amount1>12582912</Amount1>
+            <Amount2>0</Amount2>
+            <Amount3>0</Amount3>
+            <Amount4>0</Amount4>
+          </freeUnitItem>
+          <freeUnitItem>
+            <names>
+              <L1>Extra Entitlement (Top-Up Plan)</L1>
+              <L2>額外用量 (數據計劃)</L2>
+              <hiddenDisplay>N</hiddenDisplay>
+            </names>
+            <OperCode>11</OperCode>
+            <Amount1>39845888</Amount1>
+            <Amount2>0</Amount2>
+            <Amount3>0</Amount3>
+            <Amount4>0</Amount4>
+          </freeUnitItem>
+          <TotalFree>
+            <total type="1">52428800</total>
+            <total type="2">0</total>
+            <total type="3">0</total>
+          </TotalFree>
+          <TotalFree2>
+            <intra>52428800</intra>
+            <inter>0</inter>
+            <oversea>0</oversea>
+          </TotalFree2>
+        </usbRegularColumn>
+      </usbTable>
+    </usageSummary>
+  </usageSummaryGroup>
+  <MupGroup freeAmt="52428800" usageAmt="11238859">
+    <Mup freeAmt="52428800" mupId="0" usageAmt="11238859">
+      <msisdn basicFreeAmt="12582912" contrStatus="Active" eppEid="0" extFreeAmt="39845888" fee="349.52" subId="2403960355272" subType="NORMAL" usageAmt="11238859">90806070</msisdn>
+    </Mup>
+  </MupGroup>
+  <TotalBalance>350.00</TotalBalance>
+  <QRString>0002010102126221011775100228438134F3226230012hk.com.hkicl010393532290013hk.com.tapngo0208INPUTAMT5204000053033445406350.005802HK5902NA6002HK63041BC3</QRString>
+  <PaymentRule>2.0</PaymentRule>
+  <AccountNewCharge>349.52</AccountNewCharge>
+</bill>
