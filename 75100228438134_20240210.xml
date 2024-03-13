@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<bill acctCode="75100228438134" billInsert="0000" billLang="101" billStatus="Released" billType="32" envir="Reh" firstBill="N" invoiceType="Real" medium="111000" msisdn="91836072" subNum="1">
+<bill acctCode="75100228438134" billInsert="0000" billLang="101" billStatus="Normal" billType="32" envir="PROD" firstBill="N" invoiceType="Real" medium="111000" msisdn="91836072" subNum="1">
   <PaymentMode>DDCC</PaymentMode>
   <OCR>&amp;amp;lt;&amp;amp;lt; 15307867&amp;amp;gt;&amp;amp;gt; 8# 10+ 43863770208&amp;amp;lt; 00000013000&amp;amp;gt;</OCR>
   <previousBill>

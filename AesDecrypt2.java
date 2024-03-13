@@ -46,7 +46,7 @@ public class AesDecrypt2 {
         FileOutputStream decrypt_file = new FileOutputStream("decrypt.xml");
         String decrypt_str = aesDecrypt.decryptString(encrypt_str);
         decrypt_file.write(decrypt_str.getBytes("UTF-8"));
-        System.out.println(decrypt_str);
+        //System.out.println(decrypt_str);
         System.out.println("save decrypt String decrypt.xml ------------------------------------------------------------------------");
         decrypt_file.close();
 
@@ -64,13 +64,21 @@ public class AesDecrypt2 {
     }
 
     public String encrypt() throws InvalidAlgorithmParameterException, NoSuchPaddingException, IllegalBlockSizeException, IOException, NoSuchAlgorithmException, BadPaddingException, InvalidKeyException, DocumentException {
-        OutputStreamWriter out = new OutputStreamWriter( new FileOutputStream("75100228438134_20240210_encrypt.xml"), "UTF-8");
+        //OutputStreamWriter out = new OutputStreamWriter( new FileOutputStream("75100228438134_20240210_encrypt.xml"), "UTF-8");
         OutputFormat format = OutputFormat.createPrettyPrint();
         format.setEncoding("UTF-8");
         format.setNewLineAfterDeclaration(false);
 
         SAXReader reader = new SAXReader();
-        Document doc = reader.read("75100228438134_20240210.xml");
+        Document doc = reader.read("75100176483314_20240301.xml");
+
+        String fileName = doc.getName();
+
+        // Get file name without extension
+        String nameWithoutExtension = fileName.substring(0, fileName.lastIndexOf('.'));
+        System.out.println("File name without extension: " + nameWithoutExtension);
+        OutputStreamWriter out = new OutputStreamWriter( new FileOutputStream(nameWithoutExtension + "_encrypt.xml"), "UTF-8");
+
         System.out.println("begin encrypt the string ...");
         String s = encryptString(doc2String(doc));
 
@@ -79,7 +87,7 @@ public class AesDecrypt2 {
         bill.addElement("label").setText("Bill_Q1");
         bill.addElement("iv").setText(this.iv);
         bill.addElement("body").setText(s);
-        System.out.println(doc2String(doc2));
+        //System.out.println(doc2String(doc2));
 
         XMLWriter writer = new XMLWriter( out, format );
         writer.write( doc2 );
